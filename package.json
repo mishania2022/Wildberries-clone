@@ -1,0 +1,23 @@
+{
+  "name": "wildberries-clone",
+  "version": "1.0.0",
+  "description": "",
+  "source": "./src/index.html",
+  "scripts": {
+    "start:open": "parcel --open",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mishania2022/Wildberries-clone.git"
+  },
+  "author": "Mihail",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mishania2022/Wildberries-clone/issues"
+  },
+  "homepage": "https://github.com/mishania2022/Wildberries-clone#readme",
+  "devDependencies": {
+    "parcel": "^2.6.1"
+  }
+}
