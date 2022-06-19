@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/mishania2022/Wildberries-clone#readme",
   "devDependencies": {
-    "parcel": "^2.6.1"
+    "@parcel/transformer-sass": "^2.6.1",
+    "parcel": "^2.6.1",
+    "sass": "^1.52.3"
   }
 }
